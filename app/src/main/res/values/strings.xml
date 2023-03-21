@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Product</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="ongoing_arr">
+        <item>HOT DEAL</item>
+        <item>PRIME DEAL</item>
+        <item>PRIME DEAL</item>
+    </string-array>
+    <string-array name="ongoing_des">
+        <item>Upto 37% Discount &amp; 70% Cashback</item>
+        <item>Upto 37% Discount &amp; 70% Cashback</item>
+        <item>Upto 37% Discount &amp; 70% Cashback</item>
+
+    </string-array>
+
+</resources>
